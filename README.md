@@ -5,8 +5,8 @@ Data for this project comes for the FAO and the [World Bank](https://data.worldb
 ## Table of Contents 
 The following jupyter notebooks are provided:
 1. Data Preparation
-2. Algorithm Selection and Fine Tunning
-3. Data Visualization
+2. Data Visualization and Wrangling
+3. Model preparation and algorithm testing
 
 File 1 prepares data for both modeling and visualizations, creating 2 different files one for each purpose.
 
