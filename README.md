@@ -8,7 +8,7 @@ The following jupyter notebooks are provided:
 2. Data Visualization and Wrangling
 3. Model preparation and algorithm testing
 
-File 1 prepares data for both modeling and visualizations, creating 2 different files one for each purpose.
+It is specially interesting to see how data is prepared for algorithm testing the thrid file, as it shows how I deal with colinearity and use repeated country rows to extract data patterns. 
 
 ### Code of ethics
 
