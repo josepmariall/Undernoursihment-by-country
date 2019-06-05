@@ -5,7 +5,9 @@ Data for this project comes for the FAO and the [World Bank](https://data.worldb
 ## Table of Contents 
 The following jupyter notebooks are provided:
 [1. Data Preparation](https://github.com/titoniubo/Undernoursihment-by-country/blob/master/1.%20Data%20Preparation%20.ipynb)
+
 [2. Data Visualization and Wrangling](https://github.com/titoniubo/Undernoursihment-by-country/blob/master/2.%20Data%20Visualizations%20and%20wrangling.ipynb)
+
 [3. Model preparation and algorithm testing](https://github.com/titoniubo/Undernoursihment-by-country/blob/master/3.%20Algorithm%20Selection%20and%20Fine%20tunning.ipynb)
 
 It is specially interesting to see how data is prepared for algorithm testing the thrid file, as it shows how I deal with colinearity and use repeated country rows to extract data patterns. 
